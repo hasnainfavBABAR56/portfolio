@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@layer components{
+    .links{
+        @apply flex justify-center items-center h-10 text-gray-600 space-x-4;
+    }
+}
